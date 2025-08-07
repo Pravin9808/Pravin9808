@@ -8,7 +8,7 @@ I specialize in CI/CD pipelines, infrastructure as code, cloud platforms (AWS, A
 🔧 **Skills**:  
 - CI/CD: GitHub Actions, Azure DevOps, Jenkins  
 - Cloud: AWS, Azure  
-- IaC: Terraform, ARM Templates, CloudFormation  
+- IaC: Terraform, CloudFormation  
 - Containers: Docker, Kubernetes  
 - Monitoring: Prometheus, Grafana, ELK  
 - Scripting: Bash, Python, PowerShell  
