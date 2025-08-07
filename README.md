@@ -1,4 +1,4 @@
-# 👋 Hi, I’m a DevOps Engineer
+👋 Hi, I’m a DevOps Engineer
 
 🚀 **DevOps Engineer | CI/CD | Cloud | Automation Enthusiast**
 
